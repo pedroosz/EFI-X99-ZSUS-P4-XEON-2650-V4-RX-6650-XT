@@ -29,7 +29,7 @@
 - [x] XHCI-unsupported
 
 > **NOTE FOR INTEL WIFI USERS:** 
-> You **MUST** remove the itlwm from this EFI, and add the AirportItlwm kext from Ventura to use the WiFi in the installer.
+> You **MUST** add the AirportItlwm kext from Ventura and remove itlwm from this EFI to use WiFi in the installer.
 
 ## Quirks and what I've found
 
